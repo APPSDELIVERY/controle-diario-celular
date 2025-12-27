@@ -1,0 +1,10 @@
+{
+  "version": "1.1",
+  "days": ["MONDAY","TUESDAY","WEDNESDAY","THURSDAY","FRIDAY"],
+  "routine": [
+    {"time":"08:00","title":"Planejamento do dia","voice":"Bom dia. Vamos planejar seu dia.","category":"mental","duration":15},
+    {"time":"09:00","title":"Estudo de Inglês","voice":"Hora do inglês.","category":"study","duration":40},
+    {"time":"10:30","title":"Exercício físico","voice":"Movimente o corpo com segurança.","category":"health","duration":30},
+    {"time":"13:00","title":"Canal do YouTube","voice":"Crie conteúdo.","category":"content","duration":90}
+  ]
+}
